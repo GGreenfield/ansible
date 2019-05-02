@@ -25,7 +25,7 @@ description:
 options:
     instance:
         description:
-            - The service now instance name
+            - The ServiceNow instance name
         required: true
     username:
         description:
